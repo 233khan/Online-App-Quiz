@@ -1,0 +1,29 @@
+.App{
+    text-align: center;
+}
+.App-Header{
+    background-color: aqua;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: beige;
+}
+.navbar h1{
+    color: red;
+
+}
+.navbar-link {
+    margin-left: auto;
+}
+.navbar a{
+    margin-left: 16rpx;
+    padding: 16px;
+    text-decoration: none;
+}
+ h1{
+    color: yellowgreen;
+
+}

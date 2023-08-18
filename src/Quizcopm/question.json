@@ -1,0 +1,77 @@
+
+[
+    {
+        "id":1,
+        "category":"generalknowledge",
+        "statement":"1. What is the capital city of France?",
+        "options": [
+            "a. Paris.",
+            "b. Lyon.",
+            "c. Montpellier.",
+            "d. masco."
+        ],
+        "correctIndex":0
+        
+    },
+    {
+        "id":2,
+        "category":"generalknowledge",
+        "statement":"2. Which planet is known as the Red Planet?",
+        "options":[
+            "a. Venus.",
+            "b. Mars.",
+            "c.  Saturn.",
+            "d.Jupiter."
+        ],
+        "correctIndex":1
+    },
+    {  "id":3,
+         "category":"generalknowledge",
+        "statement":"3. Who painted the famous artwork The Last Supper?",
+        "options":[
+            "a.  Michelangelo.",
+            "b.  Pablo Picasso.",
+            "c. Leonardo da Vinci.",
+            "d. Vincent van Gogh"
+
+        ],
+        "correctIndex":2
+    },
+    { "id":4,
+         "category":"generalknowledge",
+        "statement":"4. Which country is the largest producer of coffee in the world?",
+        "options":[
+            "a. Brazil.",
+            "b.  Colombia",
+            "c.  Ethiopia",
+            "d. Vietnam"
+        ],
+        "correctIndex":0
+      
+    },
+    {  "id":5,
+         "category":"generalknowledge",
+        "statement":"5. What is the chemical symbol for sodium?",
+        "options":[
+            "a. Na",
+            "b.  Sn",
+            "c.  So",
+            "d. Ni"
+        ],
+        "correctIndex":0
+       
+    },
+    {  "id":6,
+        "category":"generalknowledge",
+        "statement":"6. Who wrote the novel To Kill a Mockingbird?",
+        "options":[
+            "a. Ernest Hemingway.",
+            "b. F. Scott Fitzgerald.",
+            "c. Mark Twain.",
+            "d. Harper Lee."
+        ],
+        "correctIndex":3
+     
+    }
+
+]
